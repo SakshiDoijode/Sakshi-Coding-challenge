@@ -1,5 +1,4 @@
 
-
 ## Features
 
 This is a streaming Markdown parser that supports:
