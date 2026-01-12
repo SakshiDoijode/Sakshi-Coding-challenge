@@ -1,3 +1,9 @@
+<img width="982" height="360" alt="Screenshot 2026-01-12 210841" src="https://github.com/user-attachments/assets/b2da21c1-27ba-4106-bb6b-4263e862b49c" />
+
+<img width="1714" height="1008" alt="Screenshot 2026-01-12 210901" src="https://github.com/user-attachments/assets/14bcdf64-1234-43a4-9043-aaa930b759f2" />
+
+
+<img width="1354" height="918" alt="Screenshot 2026-01-12 210914" src="https://github.com/user-attachments/assets/6dce9600-ae08-45e4-8d42-cb05d319b1b3" />
 
 ## Features
 
